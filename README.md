@@ -4,7 +4,7 @@
 > Building reliable, documented, cost-effective workflows that save time and reduce errors.
 > Based in Philippines · Remote-ready
 
-📧 cjevangelista0228@gmail.com | 💼 [LinkedIn](paste-your-LinkedIn-URL-here)
+📧 cjevangelista0228@gmail.com | 💼 [LinkedIn](www.linkedin.com/in/cj-evangelista)
 
 ---
 
@@ -20,7 +20,7 @@
 - Reduced API credit consumption by ~70% through optimized architecture
 - Full technical documentation included
 
-**📄 [View Full Case Study →](paste-link-here)** · Technical Specs · Architecture Diagrams · Version History
+**📄 [View Full Case Study →](https://app.notion.com/p/Multi-Currency-Finance-Widget-3ae2b612c21180159ca3ed430f06f66b?source=copy_link)** · Technical Specs · Architecture Diagrams · Version History
 
 ---
 
@@ -30,6 +30,8 @@
 
 - Automated real-time weather monitoring → scheduled triggers → alert distribution
 - Replaced manual daily checks → structured alerts → operational decision support
+
+**📄 [View Full Case Study →](https://app.notion.com/p/Weather-Alert-Automation-Tech-Investigation-for-Logistics-Industry-3ae2b612c2118025ac43fa3b62206dee?source=copy_link)** · Technical Specs · Architecture Diagrams · Version History
 
 ---
 
