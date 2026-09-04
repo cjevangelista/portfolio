@@ -4,7 +4,7 @@
 > Building reliable, documented, cost-effective workflows that save time and reduce errors.
 > Based in Philippines · Remote-ready
 
-📧 cjevangelista0228@gmail.com | 💼 [LinkedIn](www.linkedin.com/in/cj-evangelista)
+📧 cjevangelista0228@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/cj-evangelista)
 
 ---
 
