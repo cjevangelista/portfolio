@@ -35,12 +35,39 @@
 
 ---
 
-### 🟡 AI Meeting Summarization Assistant *(In Progress)*
-**Platforms:** n8n / Make.com · OpenAI API · Airtable  
-**Status:** 🔄 Building
+# AI Meeting Assistant — End-to-End Automation
 
-- Automate meeting recording processing → AI summarization → MOM storage
-- Build Q&A layer: "Ask questions about past meeting minutes"
+## Overview
+Self-hosted workflow automation that eliminates manual meeting administration. 
+From calendar booking → reminder → recording → transcription → summarized MOM → distributed action items — fully unattended.
+
+## Architecture
+[Calendar Trigger] → [Reminder Scheduler] → [Dual Recording Watcher] → 
+[Transcription Pipeline] → [LLM Summarization] → [Doc Generation] → 
+[Personalized Distribution] → [Audit Logging]
+
+## Tech Stack
+- **Automation:** n8n (self-hosted via Docker)
+- **AI:** OpenAI Whisper (transcription), Ollama Llama 3 (summarization)
+- **Google Workspace:** Calendar, Drive, Docs, Sheets, Gmail
+- **External:** Zoom Webhooks
+- **Patterns:** Event-driven, modular sub-workflows, idempotent deduplication
+
+## Features
+✅ Auto-detect meetings & send timed reminders
+✅ Ingest recordings from Google Meet AND Zoom
+✅ Binary processing → local transcription → structured MOM
+✅ Generate shareable Google Docs with links
+✅ Distribute to attendees via email
+✅ Centralized logging & status tracking
+
+## Roadmap
+🔲 Merge transcription & distribution workflows
+🔲 Per-attendee action item personalization
+🔲 Meeting Q&A chatbot (RAG)
+🔲 Monday.com task auto-assignment
+
+**📄 [View Full Case Study →](https://app.notion.com/p/AI-Meeting-Assistant-3ae2b612c2118068b739e2722cd72e21?source=copy_link)** · Technical Specs · Architecture Diagrams 
 
 ---
 
